@@ -1,0 +1,26 @@
+{
+  "name": "Madge Butler",
+  "age": 53,
+  "address": {
+    "street": "Burune Place",
+    "city": "Ikkufu",
+    "state": "CO",
+    "zip": "70602"
+  },
+  "contact": {
+    "phone": "(746) 594-9517",
+    "servicePhone": "800822371"
+  },
+  "birthday": "1968-09-18T11:26:52.854Z",
+  "ip": "227.253.187.159",
+  "foo": "bar",
+  "profile": {
+    "about": "Ikuasga de pomapum kef pidampo civfu ozbe oku invekrew gutfucu hev doshisid situez utiog. Jib dop rehojuv onadbow decnowav huwotimo vig kujisa coeta vaokca pu po nis ubofog hieseres sezud heroftos. Le fih ovzomwet ap nupinu nobku ezhi kotpecipa mugbub gufijge zohsav apap okamogil figisag.",
+    "bio": "Naovko tat jide rachibih ribjufvov voh apeme joces kij iboknup rotsagi fudu vafuc afidub aheraur kopihnic vadzavawi jizboseto. Ko elojozis hejmogtec nifum ra jedma kuosev gujato hiwejgi uluura waamo nan le gic vaahe muga. Sobiljif uluticake kopaksec tib fiuc epba ol uc ore ci usosefcup zuulbub dugkub huwbib."
+  },
+  "apiKey": "041fabbc7d1886d9acbe4991e5bb38097e05fb78559c72c9afbe9248aaac765c",
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstan Tenge"
+  }
+}
