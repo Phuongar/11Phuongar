@@ -1,0 +1,26 @@
+{
+  "name": "Steven Ingram",
+  "age": 21,
+  "address": {
+    "street": "Kekri Highway",
+    "city": "Pihombo",
+    "state": "IL",
+    "zip": "57139"
+  },
+  "contact": {
+    "phone": "(943) 518-3984",
+    "servicePhone": "800599583"
+  },
+  "birthday": "1970-07-13T15:37:43.540Z",
+  "ip": "147.170.227.133",
+  "foo": "bar",
+  "profile": {
+    "about": "Fizu co susono ezopa tivip olahitube osavibgaf ohmur nac heulzo paznaj paferwuv. Nofgep kehaf kaf coj ewefoko tig dijanar izalowe kebom molvifhes feta deznasucu niwaju. Zuvomip sepeoru divre ve calatuod nep uva kelru ecucafmam tufutbow zicenrif rovpe nu tofled fu soiva mojsiav dojahu. Pingobij folulagem deditgi diz jedluel oce ef sotesas ego dasmujun mo be ti agi dikbitkuh riojo. Pisib og pi hadsidbe ki mucif atdip fo etse upa ji ibbab tud lodmalad ha lofmunig. Mebdi az fuza mohejpo hu rajetecu pazzis pari on hiokuwib nundot luz. Cacodim faf ona dekah lun ob no ta wiwu gez wuufatuf sig napuk nu hugkam evwehje bici.",
+    "bio": "Godgilo vegivugo waj zoziftuj mujviban obuujapo len ok av jaculce ci ipoasuof. Zohi ovohu mu ap acolet rok wupgep falzos cubloabe cu kofazu azeebabe. Ad og wa geubfoj cuc tibduzne zilic sazlefeg duhhu reka likeune jila fuz ibiriju duh towgas. Nudfokji fiphaf louskew ohlo ove wu uzebovjej dievdu upo iv lukejzoz le rutidvuf aji seltog sigjeom tace. Fedlidew nishehdet ozbikiwa ohezevub guftete ajvim ubohewke miwaz iwjor nupsavrog tahe huf wupip reppow gomsi uhkojisu du ma."
+  },
+  "apiKey": "ad222eb0d82138da1224ff839cbefbd7a0e46d07418df1d2b3f1e2f7a7a96d3c",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
