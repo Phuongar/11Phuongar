@@ -1,0 +1,26 @@
+{
+  "name": "Cole Howard",
+  "age": 34,
+  "address": {
+    "street": "Ommi Boulevard",
+    "city": "Ispawo",
+    "state": "GA",
+    "zip": "97615"
+  },
+  "contact": {
+    "phone": "(234) 399-3065",
+    "servicePhone": "800376596"
+  },
+  "birthday": "1962-05-11T02:44:22.242Z",
+  "ip": "191.50.165.156",
+  "foo": "bar",
+  "profile": {
+    "about": "Valijnoc raggogvij sodni evak fav sunusotek za pirizpu eke wohuv om bappi zo besu nu usu fahizo ji. Kev ozinobuk awij mi zafebjov cejrubbod zisozog pumhibpu ni sauha lurokleg siohuhew hefpuuco fubma zof mibsobusa. Mejabup murejwa pok ukzoeki to amiawce udo gotofelo gicoda icuzaco ana izovuz wobuwino lugke eggatede. Sam pe zohulwo fudubhib leb tivfo ibafa gav luh gutso has lelcoze joiw. Kawiwkak ibwoj rudhi no elgonlav ehsihomi nuf tikgilu duvuli avtuuz veb badkeri ki fapebwe peje tocvi ku. Ujodin gitfunin wumik mulepo oc sijoud kifebaf hasi otke noscup emmi sukama eso.",
+    "bio": "Zam puomiset eza lu zom kam getforel ecazeron no liwbaluci ajawobog tochiji ju vuwgomki hiwalusa tec. Az fa nu elcor rezgal certiipa cep jag vipvi okivinvu kupzid far ewbe sebetzog duhpab. Pu nuw cenaze bilapil dudut pushid vedfil raktoj amneg gebcaak vafoh mif rozouwa vo mij wu."
+  },
+  "apiKey": "8a999021d410eda2ad2158b9efc5fa9dec60c606e39121760c24dfbd34ca1fa2",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
