@@ -1,0 +1,26 @@
+{
+  "name": "Alma Cortez",
+  "age": 46,
+  "address": {
+    "street": "Kenus Point",
+    "city": "Doaluci",
+    "state": "NY",
+    "zip": "48276"
+  },
+  "contact": {
+    "phone": "(545) 286-8843",
+    "servicePhone": "800367212"
+  },
+  "birthday": "1970-04-01T14:38:54.951Z",
+  "ip": "242.122.63.151",
+  "foo": "bar",
+  "profile": {
+    "about": "Onlade buf afefe vu ibage mup mepnessic cakgu juz zutjoc lole ko. Kofidji de rere no wiwfofe fu oz kojut radtak rahesif zuddi sufku. Gopduh opzuh cugu ibosib caseb pe zuap kahlesop suwofaf wa ve suzem.",
+    "bio": "Orzecti pat zobo so miwipjus waf jiga zeseuti hogi nuvpinih ikim to oraseg kake mufwo. Deoniri zi iwuameadu sit mor get soge mazkaenu hil ot fazef kawhubad. Covco ad nan koekaeca in ovwu ta ih reranesov guekab cogajusu alakidaz pihu uh giw zokoaf fiw hohcuw. Haha anicij muc puvet sar kum kiwmag naup wazihec miko wa foer kujan. Tof hugsu sasosu nenne nu de itvah dudwusif tak rujset cu fu me fid vol dog."
+  },
+  "apiKey": "c237402232004a0758f24ed2734557f32b3109ab2c8c5756ddbf2647f10ecb65",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
