@@ -1,0 +1,26 @@
+{
+  "name": "Effie Jones",
+  "age": 40,
+  "address": {
+    "street": "Omovoz Path",
+    "city": "Palunjo",
+    "state": "NM",
+    "zip": "88282"
+  },
+  "contact": {
+    "phone": "(309) 401-1003",
+    "servicePhone": "800553465"
+  },
+  "birthday": "1980-06-21T19:17:27.014Z",
+  "ip": "204.81.8.219",
+  "foo": "bar",
+  "profile": {
+    "about": "Ukzeko vupe rebgaud botticip bad laran ku gomlujti te dekednan mouro geruk jovuma mazowil ir esetica no nul. Rokki rujura tiidohi igaugovo lawcuv hopzijal ebevotnu wo oriiriwu uzi sowun kep. Pom wuhenfaj tuswo wejda epidutku hub ejacoelo ehevog coznocceg jicpob zerliume ticon.",
+    "bio": "Ban zigdusla ruce fac nida ozowolvam koof cazzav su va siga roibesud giruh gifbeki re zetu fisva juwrot. Lokal fadhib vadu luotoni hawopi ivpo new me gomajrak dihcovtid suhaffer ejfug ihuop uhorapoj secu rigop gownew. Avfu ni odkoiku hikhab hudikuf zifwumi ruwe zodsois pusfosnez abojlo kirfij hekvat ak. Awhivku pepjiwoc deme ralaztej du mogivji megwo gupu nojhaluv kaah larcupo biamba esfutfo. Fojuc nahzogu nubmi vetgohti sackato zuj ugesuf ki hihhew delicur mus juska nive udo. Ralmiate dozij cunfohfot bewallen cimlengo bim oce tulozidu izocori nepunu fel jehaf ci tewraknub efapep olimeseb ni ki."
+  },
+  "apiKey": "15f5a6ec289875cc2e303d7f1f09b23e771c28f96521632d20d6f960f0e88922",
+  "currency": {
+    "code": "AED",
+    "name": "United Arab Emirates Dirham"
+  }
+}
