@@ -1,0 +1,26 @@
+{
+  "name": "Steven Stevenson",
+  "age": 20,
+  "address": {
+    "street": "Imguh Point",
+    "city": "Zuwekhu",
+    "state": "MN",
+    "zip": "50047"
+  },
+  "contact": {
+    "phone": "(529) 574-9703",
+    "servicePhone": "800298674"
+  },
+  "birthday": "1992-06-07T05:00:44.740Z",
+  "ip": "164.59.135.136",
+  "foo": "bar",
+  "profile": {
+    "about": "Zephib bacgi pepzuzbi kofcawne jailhu fi hupav it nut ni rotugu jo. Hogsegi il emfu luwwo beblewag mef kiv malkutir wazko ekosojet kere vodolah sod. Gog ufuvoju nonerbar eded ligjiska jukvirgol koad kezvo mijjona disi ivufeuzi govu vecij lofrop momaj.",
+    "bio": "Owip imuniggo inihutuk tel gutemfid wo pas anouvo ruezadit onposenu vos jur nogbova vofrudok efcemom ferpacvo deawu kikic. Voni akatul co ul pikromev hugeli kuc pavje mu olego ezizedgor bi. Jeliju dodumse ifimivra umotova ufba dicit pihkaawu oku ted ufuuvi hoknov dap wal velpas hefvi peede ge."
+  },
+  "apiKey": "484fb69099f89edba26e5b025fffde5a97128b68a03d63a6bb213b94d4d00a0d",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
