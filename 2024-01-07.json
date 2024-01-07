@@ -1,0 +1,26 @@
+{
+  "name": "David Stone",
+  "age": 59,
+  "address": {
+    "street": "Lorit Turnpike",
+    "city": "Wesfolej",
+    "state": "KY",
+    "zip": "59533"
+  },
+  "contact": {
+    "phone": "(334) 881-4159",
+    "servicePhone": "800129586"
+  },
+  "birthday": "1959-08-27T21:17:39.771Z",
+  "ip": "29.226.241.41",
+  "foo": "bar",
+  "profile": {
+    "about": "Envu ati rezpubiz hiwja ewe dohvebed ezu gej ridukke mo donlak ejegubal rij jaaptew. Wetezu pasgu kicde ek fu geekaini ozenuz megu ojusijge ga hofwet go muwakal. Ledem tadfak lowev fe leude esawodpap faadidij kin avu ice pifti ogekumig sibuwpe ju nikegev pafenudac tagib po. Mo hodak razatu wej zepuwap zo ce ik jo epihi tevsas etaj kitader ilore zofzu. Powen fa dojjugot titaze mojuru reczud do messeb be kutiipa fosut mowjocwi woju fonpablir.",
+    "bio": "Hihaih vod kuc eko ad isabit ak foci guhse ebaekce kogzev ug bergosa li de. Womazbe bun fokivunup bap maf vuges sa ehlug titjej raw fajud mirzin salifow najedar pawawa aruoj oto. Wakare dovfupca nedo lidimto towmac habi mo gutzot rawobfu umge zaajrac ciope sohka ofvuc nehjen su cuthudmul ca. Fuplevre hadbewgak unalabi nogor ranili gocfatkus mizow ulpiwa diap dode nol pem vor icudpod popo gew zefare."
+  },
+  "apiKey": "f7bbb25545d1d6a314b3f5feade8785c4f75941e90a20374739f368339e1aa54",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
