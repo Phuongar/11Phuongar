@@ -1,0 +1,26 @@
+{
+  "name": "Lydia Peterson",
+  "age": 51,
+  "address": {
+    "street": "Deci Mill",
+    "city": "Ukuzuda",
+    "state": "OH",
+    "zip": "36271"
+  },
+  "contact": {
+    "phone": "(930) 410-2347",
+    "servicePhone": "800881236"
+  },
+  "birthday": "2000-12-06T21:36:42.148Z",
+  "ip": "93.157.102.200",
+  "foo": "bar",
+  "profile": {
+    "about": "Jefoso cu par nullal pojciro obtoc fipwuica uldobzem ruvluk hel rodbuw ge rihez wuldogto leohabu tu. Kino izweluf nogonas fawa vogi riitfa kukuz duhra waw iwunoot sa ki hetos divu zuigali. Jad gud bow vun are ha giogaor dij hu fom hode zabhuka dinmo. Ki ged ekubewo limaami od taz des lil tu iwcoh mazele cegsod ho.",
+    "bio": "Girah izedeha esejuta ju hugut dup pa kifcobdi hadwescow nij sozomesu hius dekdov dihokwuv wewtele. Zupizot go wop cit fottu lo hot kos bewwic ziwe atesojo mi wili. Weatuef lim fufwipar hibic jejbem wefto nu fabuma vifbicra ogi gitka kuda zu mege efisig masecro."
+  },
+  "apiKey": "04fc9974f10589949d336ee8707781b9af29acda87f3b208abf741b4ac5d1134",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
