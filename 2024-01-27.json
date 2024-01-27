@@ -1,0 +1,26 @@
+{
+  "name": "Luis Wagner",
+  "age": 24,
+  "address": {
+    "street": "Pova Junction",
+    "city": "Agtital",
+    "state": "HI",
+    "zip": "45628"
+  },
+  "contact": {
+    "phone": "(886) 993-5918",
+    "servicePhone": "800672857"
+  },
+  "birthday": "1979-08-17T21:04:48.467Z",
+  "ip": "98.208.145.242",
+  "foo": "bar",
+  "profile": {
+    "about": "Tup luotape ezkiv hu fir gazitji ok nudbi wiro siticgid hu enhov donumata iniwab eb. Perirre belka mivfizu ditad ocdeklap fi co kazcem ohe cualne gatobihin nud cor fuv empi las. Rat opuepalaj nazgof waikapu fuhot hivotuz dek nefutica ca gu akien hiweci isa woro ha. Noc tag vavivuop baonwu inahuli de li raen la is izi tiafioc so luj calfiruli nojozre. Raneruji detokunu ubu poc civnoj obawoele mocnoji empeuta hugvek cavegi bun gahifhip zik set jojge cotodo itoalicah bikawma. Dausi tup pofsum cid zafrugja cucfalbog loliuv mug hudlonov elfu rur obip.",
+    "bio": "In saucfi baf cuma beweomo gen abhe usfambug ruliniz il osfupiw sa si etuij. Copo mil tunun bobiles vobruwpud giso cu imvug tohulor ni bigki ze pucif. Kosdo ekomumi dije vuwub li cid sotajoc uzti ibo aka ad onmu. Lehka itekejen loawe fov agaomaow fov ulurego cu cu sojviwik wuuco gaj fipirok. Ajaf jacab jucdepgin fum lopjabo tup corajmuw cimfirad gudnapuk bamotpam ico janokman ceed hecup po."
+  },
+  "apiKey": "800585bb9736c4a1a87cc311c35b60af2b7856d1e7fc7d126f7cd89f0d75d50d",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
