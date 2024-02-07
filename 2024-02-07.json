@@ -1,0 +1,26 @@
+{
+  "name": "Susie Houston",
+  "age": 33,
+  "address": {
+    "street": "Siza Square",
+    "city": "Founlan",
+    "state": "WI",
+    "zip": "34350"
+  },
+  "contact": {
+    "phone": "(367) 542-9824",
+    "servicePhone": "800243989"
+  },
+  "birthday": "1994-09-05T06:56:10.754Z",
+  "ip": "4.119.228.213",
+  "foo": "bar",
+  "profile": {
+    "about": "Gunror jaases nimuteit apisa funrib vi kogliih acubec gizur kaj erobudba nomumo zov. Nuzzatli kede neelu ifotagic wemeuh cekoztab louksas no muv akewac tocce ki mapevnat dajis oja isivooc lepewer. Zopin kuif rigze cagehdur dirlogruw tac ju lajose juja nu buwu juno esawer ri leaci. Gemru fok howfuf cob cusihlum aroloak fu ubkiv tu bafhupi venug mo do tez lonzig ehfoj odotavgu.",
+    "bio": "Av fewde puvujju kamesaro nojhezi olole lizig def aci zu si cakid agfu. Wipder zamuhiw pa pi ekofisfe cebjotfib idaco ovkuevi mudubfup is za posa lub hi fa. Erimo ufropra zurjiiwi albid zerza wuvif jed mabi cilwajjo simaup ru erajulen tocguf re koketu afipusbiz. Guhol limbon okiip temotki zim taifjij fipded cab pe hockamtu hahmic je zikvuren ve vi jo woz. Ge ji mikuwvo iwbutru ono vuzmamod gasik rahapica upzunna di omehug egi. Degugter wu por umo teve zi tatjelsip egu wijejju ef velmid ikboghu lenrevew fu belip rabuz bo."
+  },
+  "apiKey": "3ce62f1b2ca3c2e98bdc6d382f77323b83025ee3c57bc181b8fc4f0ba355b0bd",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
