@@ -1,0 +1,26 @@
+{
+  "name": "Violet Smith",
+  "age": 18,
+  "address": {
+    "street": "Cowzav Mill",
+    "city": "Nibvosa",
+    "state": "DC",
+    "zip": "89924"
+  },
+  "contact": {
+    "phone": "(986) 511-4428",
+    "servicePhone": "800459787"
+  },
+  "birthday": "2006-07-31T22:58:01.934Z",
+  "ip": "193.107.217.78",
+  "foo": "bar",
+  "profile": {
+    "about": "Jaami sogri tatwov mektuzo ejoto wafi ju sit ri legpubzet hazmokzom jemozuw at digaddac. Ebu pazle bapa maopime ad jog dufbad buziw joefviw ikizi wazoc mad weg ibaiboema piler mehi. Sobnooko cobeba tatewo pacapsu bacit wijel wenuh zuklacis kenusij osoku ijewol vol.",
+    "bio": "Sir wucusev jik fava wov jupam ub demhig lestibo ho howo ohedalu attuido erabar ep zidif otatose. Kuta zun vicep nelu juj dolfefiw noho pugani heveeg jiepafa ulici obi sekzun alneij lob bagvuntu. Mafiwzas kizcilnif wijudti je uperol va egezwaj ju pikebjik rahdup gakigi ipi nasemoh fehkeveh. Ore vul cuzli miwapun del sa riadnok dawa ko pehaju pada kacvon va wehehuro negumiwig. Bu zogef funijeak jesfij zitcelva duhdomeb bol pikeni ipacas ofkifok lep gib di fuwnukos. Irjonud di alukovi ji tafanur nalog jofpah kirmimcur kugwev burucuki unopuli dibgusi juhiro lu."
+  },
+  "apiKey": "546123ae98f344013ef51a0a3526db89ea8f1a3be41395413e74739877c95469",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
