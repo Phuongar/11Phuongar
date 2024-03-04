@@ -1,0 +1,26 @@
+{
+  "name": "Lettie Drake",
+  "age": 24,
+  "address": {
+    "street": "Huwtac Drive",
+    "city": "Gerodli",
+    "state": "DE",
+    "zip": "12276"
+  },
+  "contact": {
+    "phone": "(408) 585-2285",
+    "servicePhone": "800739497"
+  },
+  "birthday": "1968-06-15T12:46:52.963Z",
+  "ip": "81.94.205.157",
+  "foo": "bar",
+  "profile": {
+    "about": "Radarbon fe won irsa iz cuudasu pab zi matovuj ikunuwhe dorowciz evu lujtodu. Do pizbo ininisek ciwak zefih reve povor nuhuzde fetigarun nur nobowdi is. Vuvnathu ipzimez zecat tuz rufoz cod fejuzhi zuwfal deozo ek ti bajro ku sena. Fafidih fazwobla wuwliwtor voce rupli gieriges jo puva miscukij gopolvo rif ligas.",
+    "bio": "Zampuk uta luz dasojkab tefas ticutu jabesi alkika bim akeivnam epuuvu piz riw. Ko jikdiiku ep sedu not jezkeput ne ku tiddor ob udjudo hatak ecjad. Dovwina bapdezzen suakawuv vudta valnakin lukorkuh otje bim gujow liftesho new bijfoduw meg vezka ah vit. Lul po degiege olboeto tarso fosu fajneni ofbi pegnu vehepez aki bahu be."
+  },
+  "apiKey": "aafb8ae8ff05f3cd2799a979f41b60c2134055a76b275a1c66c41eed04c7c0a6",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
