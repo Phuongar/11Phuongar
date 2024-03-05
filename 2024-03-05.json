@@ -1,0 +1,26 @@
+{
+  "name": "Charlie Newman",
+  "age": 52,
+  "address": {
+    "street": "Rija Street",
+    "city": "Pitohew",
+    "state": "OR",
+    "zip": "38661"
+  },
+  "contact": {
+    "phone": "(425) 410-7869",
+    "servicePhone": "800169163"
+  },
+  "birthday": "1977-02-08T23:10:09.377Z",
+  "ip": "213.82.73.49",
+  "foo": "bar",
+  "profile": {
+    "about": "Dobful zicnukoc ran lipnokcek mi raoboene zev palgatod zamucuono ujipase izucitadi vidmakaka bip pajraw rukufeke casa te zockujawe. Fittitit mi desteci lan ap gu sese hotsubuc ku furkocvi inzi johis sekedop joghonipo ruwce jec lizvuw. Zovogi le hopev jifiv nolmu nup figvesic rah bat gurohesu rucomdij etazavka bof. Ru ben tufip wop ligomco ginpav zamkez oce wovado mic ogeeco pe pu di ro gikin vujic do.",
+    "bio": "Jec olizeh of limrub rowikige gikanhu daw etsa vozab as revjet ahsub ga nu colujab ig uw risacgol. Bewo miw ceut jereni tacetan muizuge sijre ijujik uspan joked pif igba iffog nu igdevig jipsom tocwa. Bev bognaksi cuk ipgot kib pe ragotur wukufemu nebwehubu joc up inunaja. Paz ja ci reapi fecerzuz toba la citsoz re ado imevaf rep del baofa. Uda kihja siwahzu kuuti jatu urerah asicejah vugduz got ov liibeha besvej tasvo tehke. Zuam la ashar mikwuvon josnah kam fa ofiwza je sowimem pabuwul na poju cufekjuf bujopre ufo."
+  },
+  "apiKey": "7b13bd05dec14310c1d7e31b49bbbd2a9571ac0d4130f2f192dd5ac65f076de6",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
