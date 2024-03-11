@@ -1,0 +1,26 @@
+{
+  "name": "Gussie Mendez",
+  "age": 18,
+  "address": {
+    "street": "Dupbof Park",
+    "city": "Ocogur",
+    "state": "ID",
+    "zip": "24890"
+  },
+  "contact": {
+    "phone": "(730) 760-4320",
+    "servicePhone": "800623742"
+  },
+  "birthday": "1979-05-11T20:04:27.217Z",
+  "ip": "165.1.26.89",
+  "foo": "bar",
+  "profile": {
+    "about": "Sigugva bogbehuk kotuvitij kipawosu so sez codtinij uzanbul ke pakfiriz idoogu bu. Sofa kizucpa sido juluw atu wa godowde ohojiktev aboka uru bicpaba solusfav tamolhav nikigo subag epuwefedo. Ju re nob ebetanzi ap vurova vusujcat paftigaw ikgu mapig boruno livuk es zuh jemene. Fewveibe dewow pu su sekajpi cempotuj ro pejo pof itkol rimputi mufe puec amdufav daite.",
+    "bio": "Zidumog uza tifuf havas lurdusem jiw tolvu ucucar ruhom fablu iprepen hofovje. Tom tusosset mo datko feejrin gaiji cu uhburmeh gadula surmuvhiz fuhli bauduig ucohopwat ze wol se ofpohube sijo. Bodismol tunat fe jinemwu ja retlij hituc fascilu ipasevke uv si hi derip."
+  },
+  "apiKey": "fa7a2850e75aa332efaa17cea6a1fbe70df61053766ad23ed993c7f083e8353d",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  }
+}
