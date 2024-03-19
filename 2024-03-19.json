@@ -1,0 +1,26 @@
+{
+  "name": "Bill Perkins",
+  "age": 35,
+  "address": {
+    "street": "Zufaw Way",
+    "city": "Agcucus",
+    "state": "WI",
+    "zip": "21104"
+  },
+  "contact": {
+    "phone": "(646) 685-5376",
+    "servicePhone": "800947416"
+  },
+  "birthday": "1998-05-12T06:07:31.927Z",
+  "ip": "28.39.0.168",
+  "foo": "bar",
+  "profile": {
+    "about": "Vasac ihe soz va bic owoil ez ozfira vogajew bogse nowfapvi zefupraz. Im wajzor dop fa fochaw womudig vogram rit pafukil cunjazad hibfinoj uhogiv to sibahuwa mes evu. Su duz rih leutuobe ezubied wetmaslap kopev tesigfe bo ko liwdedo vus ku uza kuvo.",
+    "bio": "Diwagi imo podaci zignivli zejigvof saremenu henu hetohan lidonu turu paigezo vepwozpad urje wocer nub hado. Man sumoz habusin vufidef usuoko vavjuzrap pazez wuvpet dodam uf sawajlo bufwoisu. Iluiki sopa duapa ni saniw ke hefobu nuk cele uw uwdutne upo votbup zelid zugocfun ikuk vemuzaka. Ehdeosi ulirmih se gibiovu womez ko wodha ihi ba eg tirefa gojo pijuodi dunogug cadzuvnit."
+  },
+  "apiKey": "456feb55186c70b778ae40e24b495fa0ee4365f2b279ca17c8f8b901ce095b24",
+  "currency": {
+    "code": "SDG",
+    "name": "Sudan Pound"
+  }
+}
