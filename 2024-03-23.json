@@ -1,0 +1,26 @@
+{
+  "name": "Ricardo Garza",
+  "age": 45,
+  "address": {
+    "street": "Hioli Ridge",
+    "city": "Ebmunmes",
+    "state": "MN",
+    "zip": "81702"
+  },
+  "contact": {
+    "phone": "(567) 359-7573",
+    "servicePhone": "800266241"
+  },
+  "birthday": "1978-02-12T10:20:35.715Z",
+  "ip": "211.183.52.237",
+  "foo": "bar",
+  "profile": {
+    "about": "Ge urerib biozunig cowko zuwoc newu mu zogzal sulultal wuknofho ib aluuta mojfos. Roliza filpevul cunec tiliz mobtal habhehe ap ecihatet gunciaw hok jagidcuf wes uda pa ihhihdum luhetaw jo uw. Re foilfod bovusi kot ciguno num agaif bube ad bu wimzeba ojiljut.",
+    "bio": "Pisegfif loito puna gehuhik uhliam ej indefzuk vegino atcoroja palof fotuz dim zoz juir hudol vaivevo uco. Ememacduw itoabdoz odebi pogjijev ow hes wenpo nijduzmog dokajtum rul mu nomsi ujcefil jorevsuh ulbughav sij. Fosmebuk futvoj kizaw lo buvhez cip jon vo gu popbuvvek ze uf katce ufiziso. Sor ke piduffiw cin cemo gohiple ru ilitu fek go uga judora tuhav jed gogdiaki. Uh akede dufzuw wo mozuz ja ral zeju roharos kevdolteb siujku de ironikus hiz nutol rokanka tabgatod owe. Gisej cihuvi tuz laereiba defpova nic wonu nazos zuce veim lesitup al pid zaduvzan wo cuzce."
+  },
+  "apiKey": "f9bef6dca35b749e71a5706a5cf54bcc66807983cccca9930527378b0bc774fb",
+  "currency": {
+    "code": "MMK",
+    "name": "Myanmar (Burma) Kyat"
+  }
+}
