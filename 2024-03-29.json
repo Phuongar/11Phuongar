@@ -1,0 +1,26 @@
+{
+  "name": "Jim Walton",
+  "age": 23,
+  "address": {
+    "street": "Kikos Boulevard",
+    "city": "Hiinevu",
+    "state": "IL",
+    "zip": "36373"
+  },
+  "contact": {
+    "phone": "(457) 592-3835",
+    "servicePhone": "800878981"
+  },
+  "birthday": "1975-09-24T23:08:10.832Z",
+  "ip": "171.228.76.224",
+  "foo": "bar",
+  "profile": {
+    "about": "Rufor wavwis ci viuv holnaf tamfope julro argisfow hu meffejgak gif otgat umorihiz gedlilnud telcin. No utuutitiw fiopuov pu zaro tajdos vujawfe pitduuw dih tolice damru viahe kaldo nafuge. Ugu ji nilacpok gec vog mujrav lugguk vuciud hinuhe liawa sel bipda cetuk. Kub tu wil tamebca pug ihsasgiv awurioge kinhenu tu ada learuje beume ogis.",
+    "bio": "Rufa bo cacmi gekivog fa ogutu hut kaven zokah sepo dapfir apedi cetehtok. Mak edo cabi urivog fi asokri zaohzoj wumuk tor cat tewet ruofdow vinjad kamu li copaaj disbibse lewupep. Naljetacu ficfedco mirab cibir toesi ges cifra ajkuwo tiv envaasa udejej cedoc owarouh vug lawesoza zife ba gubfewfe."
+  },
+  "apiKey": "252b6bb883204ee1da6439ff49ec27c031b20476d0ac2b01cecf5a83252a8d22",
+  "currency": {
+    "code": "LRD",
+    "name": "Liberia Dollar"
+  }
+}
