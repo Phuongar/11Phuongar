@@ -1,0 +1,26 @@
+{
+  "name": "Miguel Kennedy",
+  "age": 32,
+  "address": {
+    "street": "Tuwfiv Place",
+    "city": "Zezcanneg",
+    "state": "DE",
+    "zip": "21824"
+  },
+  "contact": {
+    "phone": "(947) 521-9965",
+    "servicePhone": "800988926"
+  },
+  "birthday": "1999-12-05T05:40:17.515Z",
+  "ip": "18.255.168.4",
+  "foo": "bar",
+  "profile": {
+    "about": "Na bil kih sikbi paz pe jem zede liipced lu wati ca ginked janarwuk. Man gozci sedane nef utepu la pil zajkiz kan bic vef ke. Mih ina kofkoun fic ce pihun vi la inawa fe himen noh zojda.",
+    "bio": "Remconno zi dasrazi tucowoki fez kajekez ida batcuv ta piv of sa aputoajo hemnubjo. Utouc demifen otehesa hiidvip lilogvu vejhob efasude fupep ovehe bikcinrur koklem lit sakmu gifte so tizin keski. Rib jekiwe wavo zacgiz loni wa lo dolbilut tobuz vof udoitize paczuc ozi afiuzesam va pi pu vefa."
+  },
+  "apiKey": "8266ba13507bc0e12c5bdbefda77b7581797d8ed9f882f45ee092cc4bb0b6ae2",
+  "currency": {
+    "code": "LAK",
+    "name": "Laos Kip"
+  }
+}
