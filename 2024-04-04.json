@@ -1,0 +1,26 @@
+{
+  "name": "Mittie Sharp",
+  "age": 25,
+  "address": {
+    "street": "Uzhi Trail",
+    "city": "Dedipbec",
+    "state": "AK",
+    "zip": "65344"
+  },
+  "contact": {
+    "phone": "(744) 614-6771",
+    "servicePhone": "800164829"
+  },
+  "birthday": "1963-08-26T13:57:20.814Z",
+  "ip": "181.154.242.42",
+  "foo": "bar",
+  "profile": {
+    "about": "Cuwiccez ebu tifmimre nib resufej eb idusomut wevido lu sedbe eflapki bepune ozker oraf. Odauda liof ura saiduk ucse wulaw hit kepibhas ruwfari mo lajigpe riw bigamefor kuajowo deom ojehanrik zebugic. Sobgar hehemupa dow nodrazja ze gucsica wovaro ovo ladfifi fuhtejap os gedgi raha digetbus.",
+    "bio": "Gih higupok febbap hop nifgotdeh nad juvefiido duuwomuh gimehma bevrigu wumop bolevjoh itusafe pim val mugha. Denzel cew dot ho ewautu udu fueza tu modike sadpuoj po bujat vewucap. Rawserbug ecpac gipaus hikefa tal loubol ukuaka pekusgun ga ewgemde ca ekabub bovtewoc rekdegpi pegin."
+  },
+  "apiKey": "be2001f8f8ab19933cf41d39db4ffad0ddf178354b116b6dfacf1ebdff50369f",
+  "currency": {
+    "code": "MKD",
+    "name": "Macedonia Denar"
+  }
+}
