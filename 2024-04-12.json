@@ -1,0 +1,26 @@
+{
+  "name": "Kyle Keller",
+  "age": 34,
+  "address": {
+    "street": "Ladi Trail",
+    "city": "Rudiga",
+    "state": "WV",
+    "zip": "26738"
+  },
+  "contact": {
+    "phone": "(919) 899-4499",
+    "servicePhone": "800539836"
+  },
+  "birthday": "1973-11-30T21:22:45.756Z",
+  "ip": "12.224.66.104",
+  "foo": "bar",
+  "profile": {
+    "about": "Rozorur pem kobhah awfilgi wogvip idwacif hi pe popapo cogsuf awjop ilzew jun ci guessu mohi sewigzo zirsa. Ajtivu necohac ivibiluc im melece pomud folog moid otuurli no dociki zomar noucico. Zu gade raivuz zi vi apa vadcibi egoov vol ukazu ahiof ca dada das us oco miplotol.",
+    "bio": "Izufojo panalines pepane vaim baema ku temmasnu cudsa jaldul ovap uhazul huuwu. Gul nis cehib ol isu pe itlu ema beve dunadpo bifzezoj mojil eba nefalugo jumjodsa. Leohze bi bahonpir vihupi onahuh ligce so vewago bouvazi dap voc tojwuha ulvahfu pubagos sivu obaobeohu. Eg noiwo zuffezob subuhjef bu ze toovfi niutipaz adtis ova lamset jod ogo jokab der lob."
+  },
+  "apiKey": "f0358f92d3292b0dcbc57901edb578f30986f6079906a09fe67547196dbb3c3a",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
